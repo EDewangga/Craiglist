@@ -1,8 +1,8 @@
-## Anggota kelompok
+## Group
 
-1. Andika Andra - 05111640000058
-2. Adistya Azhar - 05111640000103
-3. Elvega Dewangga - 05111640000149
+1. Andika Andra 
+2. Adistya Azhar 
+3. Elvega Dewangga 
 
 ---
 ## Project Topic : Craiglist Forum Session
