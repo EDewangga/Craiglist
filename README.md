@@ -1,8 +1,3 @@
-## Group
-
-1. Andika Andra 
-2. Adistya Azhar 
-3. Elvega Dewangga 
 
 ---
 ## Project Topic : Craiglist Forum Session
